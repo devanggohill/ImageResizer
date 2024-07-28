@@ -8,9 +8,7 @@ Whether you need to optimize images for web use, social media, or any other appl
 1. [Features](#features)
 2. [Installation](#installation)
 3. [Usage](#usage)
-4. [Contributing](#contributing)
-5. [License](#license)
-6. [Acknowledgements](#acknowledgements)
+
 
 ## Features
 - **Easy Resizing:** Quickly resize images to any desired dimensions.
